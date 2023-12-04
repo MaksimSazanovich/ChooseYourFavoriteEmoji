@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2eef20059f340889c37ae4c978374d0, type: 3}
+  m_Name: CurtainConfig
+  m_EditorClassIdentifier: 
+  <Curtain>k__BackingField: {fileID: 6220552981729799674, guid: a855143d59401df43b2b136f60685b20, type: 3}
+  <HideDelay>k__BackingField: 0.5
+  <AnimationDuration>k__BackingField: 1
