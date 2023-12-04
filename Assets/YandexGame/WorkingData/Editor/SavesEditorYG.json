@@ -1,5 +1,5 @@
 {
-  "idSave": 97,
+  "idSave": 8,
   "isFirstSession": false,
   "language": "ru",
   "promptDone": false,
@@ -18,9 +18,7 @@
     null,
     null,
     null,
-    "g17600"
+    null
   ],
-  "finishedTopics": [
-    14
-  ]
+  "finishedTopics": []
 }
