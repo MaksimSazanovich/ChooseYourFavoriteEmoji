@@ -1,4 +1,4 @@
 # ChooseYourFavoriteEmoji
 
-https://github.com/user-attachments/assets/8caa4e1e-3968-4451-a478-fd744840ac45
+https://github.com/user-attachments/assets/abf5e77d-8fdc-4f68-a743-96a456355df9
 
